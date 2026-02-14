@@ -1,0 +1,11 @@
+touch \
+01_C0r3_H4nd_T00lZ/{es_herramientas,ru_инструменты,ch_工具}/README.md \
+02_4ppr3nt1c3_Lvl_{1,2,3,4}/{es_basico,ru_начальный,ch_初级}/README.md \
+03_J0urn3ym4n_Lvl_{1,2,3,4}/{es_profesional,ru_опытный,ch_中级}/README.md \
+04_F0r3m4n_Lvl_{1,2,3,4}/{es_liderazgo,ru_руководитель,ch_高级}/README.md \
+05_PM_GG_Lvl_{1,2,3,4}/{es_gerencia,ru_управление,ch_管理}/README.md \
+06_C10_L1c3n53/{es_permisos,ru_документы,ch_合规}/README.md \
+07_C1ty_In5p3ct0r_VI_x/{es_inspeccion,ru_проверка,ch_检查}/README.md \
+08_C1ty_Pl4nn1ng_VI_vsp/{es_urbanismo,ru_проектирование,ch_规划}/README.md \
+09_E5t1m4t0r_Takeoffs/{es_costos,ru_расчеты,ch_测算}/README.md \
+10_Tr4n5f0rm3rz_4nd_M0t0rz/{es_potencia,ru_энерго,ch_动力}/README.md
